@@ -4,15 +4,21 @@
 - [FI(S)](https://www.kuusikulennuklubi.eu) {.eu} 🚧
    1. Theory (SPL): 100h (9 subjects) 
       - 🟢 Air Law
-      - 🟢 Aircraft General Knowledge
-      - 🟢 Principles of Flight
+      - 🟡 Human Performance
       - 🟡 Meteorology
       - 🟡 Communications
-      - 🟡 Human Performance  
-      - 🟡 Navigation 
+      - 🟢 Principles of Flight
+      - 🔴 Operational Procedures
       - 🔴 Flight Performance & Planning
-      - 🔴 Operational Procedures 
-   2. Theory (PPL): 9 subjects 
+      - 🟢 Aircraft General Knowledge
+      - 🟡 Navigation 
+   2. Practicum (SPL): 15h flight + skill test(s) 
+   3. Theory (PPL): 5 subjects (non-common or specific)
+      - POF 
+      - OPS 
+      - 🟡 FPP
+      - AGK 
+      - 🟡 NAV
    3. Practicum (SPL): 15h flight + 2-3h skill test (sailplane + TMG)
    4. Practicum (PPL): 39h (TMG 24h + SEP 15h)
         1. 24h: Solo 
@@ -48,7 +54,7 @@
    - 🔴 M16 (Piston Engine)
    - 🔴 M17 (Propeller Systems)
 
-- Practicum: 3/5y (4,800–6,000h)
+- Practicum: 3-5y (4,800–6,000h)
 
 ---
 
