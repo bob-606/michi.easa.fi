@@ -20,12 +20,13 @@
       - AGK 
       - 🟡 NAV
    3. Practicum (SPL): 15h flight + 2-3h skill test (sailplane + TMG)
-   4. Practicum (PPL): 39h (TMG 24h + SEP 15h)
+   4. Towing Rating (SFCL.205)
+   5. Practicum (PPL): 39h (TMG 24h + SEP 15h)
         1. 24h: Solo 
         2. 10h: Supervised Solo
         3. 5h: 5 Solo Cross-country [270 km (150 NM) + 2 Aerodromes Landings]
-   5. Practicum (FI): 100h of flight time + 200 launches as PIC 
-   6. Theory (FI): 55h
+   6. Practicum (FI): 100h of flight time + 200 launches as PIC 
+   7. Theory (FI): 55h
  
 - FI(A) 🧊 
    1. Theory
