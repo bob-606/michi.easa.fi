@@ -8,8 +8,8 @@
       - 🟡 Meteorology
       - 🟡 Communications
       - 🟢 Principles of Flight
-      - 🔴 Operational Procedures
-      - 🔴 Flight Performance & Planning
+      - 🟡 Operational Procedures
+      - 🟡 Flight Performance & Planning
       - 🟢 Aircraft General Knowledge
       - 🟡 Navigation 
    2. Practicum (SPL): 15h flight + skill test(s) 
