@@ -15,7 +15,7 @@
    2. Practicum (SPL): 15h flight + skill test(s) 
    3. Theory (PPL): 5 subjects (non-common or specific)
       - POF 
-      - OPS 
+      - 🟡 OPS 
       - 🟡 FPP
       - AGK 
       - 🟡 NAV
