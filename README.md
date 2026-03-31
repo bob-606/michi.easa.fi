@@ -5,8 +5,8 @@
    1. Theory (SPL): 100h (9 subjects) 
       - 🟢 Air Law
       - 🟡 Human Performance
-      - 🟡 Meteorology
-      - 🟡 Communications
+      - 🟢 Meteorology
+      - 🟢 Communications
       - 🟢 Principles of Flight
       - 🟡 Operational Procedures
       - 🟡 Flight Performance & Planning
