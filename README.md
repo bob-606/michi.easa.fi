@@ -2,7 +2,7 @@
 
 ### [ATPL (Frozen)](https://www.easa.europa.eu/sites/default/files/dfu/Easy_Access_Rules_for_Part-FCL-Aug20.pdf)
 - [FI(S)](https://www.kuusikulennuklubi.eu) {.eu} 🚧
-   1. Theory (SPL): 100h (9 subjects) 
+   1. Theory (SPL)
       - 🟢 Air Law
       - 🟡 Human Performance
       - 🟢 Meteorology
@@ -12,19 +12,19 @@
       - 🟡 Flight Performance & Planning
       - 🟢 Aircraft General Knowledge
       - 🟡 Navigation 
-   2. Practicum (SPL): 15h flight + skill test(s) 
-   3. Theory (PPL): 5 subjects (non-common or specific)
+   2. Practicum (SPL)
+      - 15h flight + 2-3h skill test (sailplane + TMG)
+   3. Theory (PPL)
       - POF 
       - 🟡 OPS 
       - 🟡 FPP
       - AGK 
       - 🟡 NAV
-   3. Practicum (SPL): 15h flight + 2-3h skill test (sailplane + TMG)
    4. Towing Rating (SFCL.205)
-   5. Practicum (PPL): 39h (TMG 24h + SEP 15h)
-        1. 24h: Solo 
-        2. 10h: Supervised Solo
-        3. 5h: 5 Solo Cross-country [270 km (150 NM) + 2 Aerodromes Landings]
+   5. Practicum (PPL)
+      - 24h: Solo 
+      - 10h: Supervised Solo
+      - 5h: 5 Solo Cross-country [270 km (150 NM) + 2 Aerodromes Landings]
    6. Practicum (FI): 100h of flight time + 200 launches as PIC 
    7. Theory (FI): 55h
  
