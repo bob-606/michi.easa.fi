@@ -32,7 +32,8 @@
    1. Theory
    2. Practicum 
 
-- ATPL Theory + Time Building 
+- ATPL Theory
+- Time Building 
 
 ---
 
