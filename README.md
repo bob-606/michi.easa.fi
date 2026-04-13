@@ -13,7 +13,7 @@
       - 🟢 Aircraft General Knowledge
       - 🟡 Navigation 
    2. Practicum (SPL)
-      - 15h flight + 2-3h skill test (sailplane + TMG)
+      - 15h flight + 2-3h skill test 
    3. Theory (PPL)
       - POF 
       - 🟡 OPS 
