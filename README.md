@@ -1,6 +1,6 @@
 # /ˈpɑːθˌfʌɪndə/
 
-### [ATPL (Frozen)](https://www.easa.europa.eu/sites/default/files/dfu/Easy_Access_Rules_for_Part-FCL-Aug20.pdf)
+### [ATPL](https://www.easa.europa.eu/sites/default/files/dfu/Easy_Access_Rules_for_Part-FCL-Aug20.pdf)
 - [FI(S)](https://www.kuusikulennuklubi.eu) {.eu} 🚧
    1. Theory (SPL)
       - 🟢 Air Law
