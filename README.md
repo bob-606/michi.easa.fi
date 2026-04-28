@@ -52,7 +52,7 @@
    - 🔴 M11B (Piston Aeroplane Aerodynamics, Structures & Systems)
    - 🔴 M12 (Helicopter Aeroplane Aerodynamics, Structures & Systems)
    - 🟡 M13 (Avionics Aircraft Structures & Systems)
-   - 🟡 M14 (Propulsion)
+   - 🔴 M14 (Propulsion)
    - 🔴 M16 (Piston Engine)
    - 🔴 M17 (Propeller Systems)
 
