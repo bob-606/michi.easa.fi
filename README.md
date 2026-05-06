@@ -38,7 +38,7 @@
 
 ---
 
-### [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) (B+C) {.eu} 🚧
+### [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) (B+C) 🚧
 - Bx
    - 🔴 M1 (Mathematics)
    - 🔴 M2 (Physics)
