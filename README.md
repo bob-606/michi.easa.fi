@@ -52,14 +52,13 @@
    - 🔴 M10 (Aviation Legislation)
      
 - B2
-   - 🟡 M13 (Avionics Aircraft Structures & Systems)
+   - 🟡 M13 (Aircraft Aerodynamics, Structures & Systems)
    - 🔴 M14 (Propulsion)
 
 - B1.x
    - 🔴 M11A (Turbine Aeroplane Aerodynamics, Structures & Systems)
    - 🔴 M11B (Piston Aeroplane Aerodynamics, Structures & Systems)
-   - 🔴 M12 (Helicopter Aeroplane Aerodynamics, Structures & Systems)
-   - 🔴 M12 (Helicopter Aeroplane Aerodynamics, Structures & Systems)
+   - 🔴 M12 (Helicopter Aerodynamics, Structures & Systems)
    - 🔴 M15 (Gas Turbine Engine)
    - 🔴 M16 (Piston Engine)
    - 🔴 M17 (Propeller Systems)
