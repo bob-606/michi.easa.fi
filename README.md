@@ -19,6 +19,14 @@
    - Time Building (FI)
       - 100h TT + 200 launches as PIC on sailplanes
    - Theory (FI)
+ 
+- FE(S)
+   - Unrestricted FI(S). [easa.europa](https://www.easa.europa.eu/en/downloads/141392/en)
+   - 300 h sailplanes. [flygsport](https://flygsport.se/download/18.5889933c18529c5912ed50ba/1672202833495/Draft%20SFCL_2019%20oktober.pdf)
+   - 150 h or 300 launches as FI(S). [flygsport](https://flygsport.se/download/18.5889933c18529c5912ed50ba/1672202833495/Draft%20SFCL_2019%20oktober.pdf)
+   - Examiner course. [easa.europa](https://www.easa.europa.eu/en/document-library/general-publications/flight-examiners-manual-fem)
+   - Assessment of competence. [easa.europa](https://www.easa.europa.eu/en/downloads/141392/en)
+   - TMG add-on: 300 h sailplanes/airplanes + 50 h TMG instruction. [flygsport](https://flygsport.se/download/18.5889933c18529c5912ed50ba/1672202833495/Draft%20SFCL_2019%20oktober.pdf)
 
 - FI(A) 🧊 
    - Theory (PPL)
