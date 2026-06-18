@@ -4,11 +4,11 @@
 - FI(S) {.eu} 🚧
    - Theory (SPL)
       - 🟢 Air Law
-      - 🟡 Human Performance
+      - 🟢 Human Performance
       - 🟢 Meteorology
       - 🟢 Communications
       - 🟢 Principles of Flight
-      - 🟡 Operational Procedures
+      - 🟢 Operational Procedures
       - 🟡 Flight Performance & Planning
       - 🟢 Aircraft General Knowledge
       - 🟡 Navigation 
